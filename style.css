@@ -1,0 +1,54 @@
+/*selector{	
+	Property: value;
+}*/
+* {
+	text-align: left;
+}
+
+body{
+	background-image: url(background.jpg);
+	background-size: cover;
+
+}
+h2 {
+	color: red;
+}
+p {
+	color: red;
+	text-align: center;
+	
+	cursor: pointer;
+}
+
+p {
+	line-height: 25px;
+	font-style: italic;
+	font-weight: bold;
+	font-family: 'Chelsea Market', cursive;
+}
+
+img {
+	float: right;
+}
+
+footer {
+	clear: both;
+	text-align: center;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+}
+.t {
+	color: red;
+	text-align: center;
+}
+
+#div1 {
+	background-color: black;
+}
+
+#div2 {
+	background-color: orange;
+}
